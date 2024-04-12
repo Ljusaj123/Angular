@@ -1,0 +1,1 @@
+var e=[{text:"Control Panel",link:"/control-panel"},{text:"Summary",link:"/summary"},{text:"Records",link:"/records"},{text:"Clinical Notes",link:"/clinical-notes"},{text:"Prescriptions",link:"/prescriptions"},{text:"Predictive Model",link:"/predictive-model"}];export{e as a};
